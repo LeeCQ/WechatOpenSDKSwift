@@ -1,0 +1,2 @@
+# WechatOpenSDKSwift
+WechatOpenSDKSwift
