@@ -1,0 +1,18 @@
+PODS:
+  - WechatOpenSDKSwift (0.1.0):
+    - WechatOpenSDKSwift/WechatOpenSDK (= 0.1.0)
+  - WechatOpenSDKSwift/WechatOpenSDK (0.1.0)
+
+DEPENDENCIES:
+  - WechatOpenSDKSwift (from `../`)
+
+EXTERNAL SOURCES:
+  WechatOpenSDKSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WechatOpenSDKSwift: 4a21bb82e925de9923a4b76c98c395096baea6ff
+
+PODFILE CHECKSUM: 6c1850e606160026905b10c46d0369bfceb7e113
+
+COCOAPODS: 1.8.4

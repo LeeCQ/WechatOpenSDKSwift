@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WechatOpenSDKSwift_Example' do
+  pod 'WechatOpenSDKSwift', :path => '../'
+
+  target 'WechatOpenSDKSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module Pods_WechatOpenSDKSwift_Tests {
+  umbrella header "Pods-WechatOpenSDKSwift_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
